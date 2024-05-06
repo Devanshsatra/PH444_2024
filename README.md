@@ -26,9 +26,7 @@ Requirements:
 | Agnipratim Nag (210260005)      |
 | Atharva Arora (210260011)       |
 | Siddharth Stephen (210260049)   |
-| Arth Mendhe (200260030)         | 2            | Magnetic dipole moment of a moving electric dipole                                                                          | ilokeshmishra96321@gmail.com
-
-<br> | LokiKoli            |
+| Arth Mendhe (200260030)         | 2            | Magnetic dipole moment of a moving electric dipole                                                                          | ilokeshmishra96321@gmail.com      | ### LokiKoli            |
 | Arnab Mondal (200260009)        |
 | Lokesh Mishra (200260026)       |
 | Pravind Sharma (200260038)      |
